@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there i'm Dan currently studying software engineering and taking things as i go!
+### Currently I know how to work with Python, C#, HTML, CSS, JavaScript, PHP and SQL.
 
 <!--
 **Danicus2000000/Danicus2000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
