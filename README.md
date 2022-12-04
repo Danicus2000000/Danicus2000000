@@ -1,5 +1,8 @@
 Hi there i'm Dan currently studying software engineering and taking things as i go!<br/>
-Currently I know how to work with Python, C#, HTML, CSS, JavaScript, PHP and SQL.
+Currently I know how to work with Python, C#, HTML, CSS, Java, SQL, Javascript, PHP, C, Flex, Bison. (In order of ability)
+Reach me at: dbulman68@gmail.com
+Pronouns: He/Him
+Fun fact: Fragments in android studio cause me great pain i mean there must be easier ways of implementing that system right?
 
 <!--
 **Danicus2000000/Danicus2000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
