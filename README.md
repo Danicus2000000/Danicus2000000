@@ -1,6 +1,6 @@
 # Hello World
 
-Hi there i'm Dan a recently graduated software engineer and taking things as i go!  
-Currently I know how to work with Python, C#, HTML, CSS, Java, SQL, Javascript, PHP, C, Flex, Bison.  
+Hi there i'm Dan a software development engineer and taking things as i go!  
+I've worked with Python, C#, HTML, CSS, Java, SQL, Javascript, PHP, C, Flex, Bison, React, Azure Devops, Yaml and many many more.  
 Reach me [here](mailto:testertestington940@gmail.com).  
-Pronouns: He/Him  
+Pronouns: He/Him/His  
